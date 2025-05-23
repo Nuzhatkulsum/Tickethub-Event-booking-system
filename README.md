@@ -1,7 +1,4 @@
-# Event-booking-system
 
-
-ticket_booking_readme = """
 # 🎟️ Ticket Booking System
 
 ## 📘 Project Introduction
