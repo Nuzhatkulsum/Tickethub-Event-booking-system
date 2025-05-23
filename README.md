@@ -3,7 +3,7 @@
 
 ## 📘 Project Introduction
 
-The **Ticket Booking System** is a web-based application developed to provide a seamless and efficient solution for booking and managing tickets across various domains, including concerts, movies, travel, and more. The system aims to enhance the user experience by offering an intuitive interface, dynamic availability updates, and easy navigation for both customers and administrators.
+The **Ticket Booking System** is a web-based application developed to provide a seamless and efficient solution for booking and managing tickets across various domains, including concerts,musical events. The system aims to enhance the user experience by offering an intuitive interface, dynamic availability updates, and easy navigation for both customers and administrators.
 
 This platform empowers users to explore available events, book tickets in real-time, and manage their reservations. Meanwhile, administrators are equipped with a dedicated panel to manage event listings, track bookings, and oversee ticket availability.
 
