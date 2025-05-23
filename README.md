@@ -14,8 +14,7 @@ This platform empowers users to explore available events, book tickets in real-t
 - **HTML, CSS, JavaScript** – Core technologies for structuring, styling, and adding interactivity.
 - **ReactJS** *(optional)* – Used for building dynamic user interfaces with state management.
 - **Bootstrap** – For responsive design and consistent UI elements across devices.
-- ## 🛠️ Technologies Used and Their Role
-
+- 
 ### ✅ React
 Used for building reusable user interface components and managing the state and lifecycle of web pages efficiently.
 
@@ -51,15 +50,21 @@ Helps enforce coding standards and preprocess CSS for better compatibility and m
 ### 🔧 Admin Panel
 - **Event Management**: Add, update, or remove events or services.
 - **Booking Oversight**: Monitor ticket bookings and track availability in real-time.
-
-
+---
 ## 📸 Screenshots
 
 
 
 
+---
+## 📸 Video
 
 
+----
+
+## Project Link
+
+-----
 ## To run this project locally:
 git clone https://github.com/Nuzhatkulsum/Tickethub-Event-booking-system.git
 cd Tickethub-Event-booking-system
